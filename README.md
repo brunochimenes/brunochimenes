@@ -1,4 +1,4 @@
-## Olá! Eu sou Bruno Carvalho 👋
+## Olá! Eu sou Bruno 👋
 
 <!--
 **brunochimenes/brunochimenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
