@@ -1,6 +1,6 @@
 ## Hi, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I am a husband and Junior Full Stack developer, holding a degree in Analysis and Systems Development. 🎓
+I am a husband and Full Stack developer, holding a degree in Analysis and Systems Development. 🎓
 
 With a focus on the JavaScript language, I constantly strive to improve my skills in React, React Native and Node technologies. 🚀
 
